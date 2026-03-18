@@ -4,3 +4,5 @@ plotly
 openpyxl
 fpdf
 schedule
+msal
+requests
